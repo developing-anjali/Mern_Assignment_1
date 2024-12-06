@@ -1,0 +1,19 @@
+.dog{
+    width: 25%;
+}
+
+.mouse{
+    width: 5%;
+}
+
+.day,.cat,.mouse{
+    margin-top: 30%;
+}
+
+body{
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
